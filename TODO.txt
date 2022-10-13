@@ -1,0 +1,4 @@
+TODO: Hozzáadásnál nem jelenik meg az EDIT gomb automatikosan
+TODO: Az EDIT gomb nem müködik
+TODO: Hozzáadás ürlap modosítás ablakban
+TODO: 
